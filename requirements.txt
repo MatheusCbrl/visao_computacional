@@ -1,6 +1,3 @@
 ultralytics
-torch 
-torchvision 
-opencv-python
 flask 
-opencv-python-headless
+yolodetection
