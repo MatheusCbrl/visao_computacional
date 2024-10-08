@@ -1,3 +1,2 @@
 ultralytics
-flask 
-yolodetection
+flask
